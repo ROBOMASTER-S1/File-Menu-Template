@@ -29,8 +29,6 @@ text_features=(
     '\x1b[37m'  # index 7 = white
     )
 
-sounds=('Ring05','Ring06')
-
 text_words=(
     f'\n{text_features[1]}{text_features[5]}J.C.R \
 Soft{text_features[4]}~{text_features[5]}Choice', # index 0 = text_words
