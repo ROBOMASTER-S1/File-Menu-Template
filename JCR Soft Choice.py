@@ -18,7 +18,7 @@ from Majestic_Calculator import maj_cal
 from Grocery_List_Creator import items_list
 from Fantastique_Plastique import fan_plast
 from Ontario_Lotto_649 import ont_lotto
-from Typewriter_Game import  type_game
+from Typewriter_Game import type_game
 from Know_Your_Polygons import kyp
 
 text_features=(
