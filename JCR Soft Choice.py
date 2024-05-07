@@ -4,13 +4,13 @@
 
 # You will need to import your own files to correctly make this Python
 # file menu program example work. You can also use some of my program
-# examples to create a working Python file menu of your very own.
-# I created this file menu and its files associated with it, using def
-# functions(). This Python file menu example shows how to create modules and
-# how to import them into your very own file menu. Note: you must store
-# all your files within the very same folder you create your file menu in.
-# If you don't do such, the file menu won't be able to find the files you
-# want in your file menu.
+# examples to create a working Python file menu of your very own. I
+# created this file menu and its files associated with it, using def
+# functions(). This Python file menu example shows how to create modules
+# and how to import them into your very own file menu. Note: you must
+# store all your files within the very same folder you create your file
+# menu in. If you don't do such, the file menu won't be able to find the
+# files you want in your file menu.
 
 import os,time,math
 from Ascii_Code_Translator import ascii_codes
