@@ -1,6 +1,6 @@
 # File-Menu-Template
 
-J.C.R Soft~Choice File Menu Python program example:
+J.C.R Soft~Choice File Menu Template Python program example:
 
 Created by Joseph C. Richardson, GitHub.com
 
